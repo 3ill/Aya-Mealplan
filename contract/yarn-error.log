@@ -1,0 +1,31 @@
+Arguments: 
+  /home/longlive3ill/.nvm/versions/node/v20.0.0/bin/node /home/longlive3ill/.nvm/versions/node/v20.0.0/bin/yarn add hardhat
+
+PATH: 
+  /home/longlive3ill/.nvm/versions/node/v20.0.0/bin:/home/longlive3ill/.cargo/bin:/home/longlive3ill/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin:/home/longlive3ill/.foundry/bin:/home/longlive3ill/.local/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  20.0.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error [ERR_SOCKET_CONNECTION_TIMEOUT]: Socket connection timeout
+      at new NodeError (node:internal/errors:399:5)
+      at internalConnectMultiple (node:net:1098:20)
+      at Timeout.internalConnectMultipleTimeout (node:net:1637:3)
+      at listOnTimeout (node:internal/timers:575:11)
+      at process.processTimers (node:internal/timers:514:7)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
